@@ -7,3 +7,4 @@ Utilized a recent college majors salary survey to explore possible gender biases
 
 Work indicated that gender-gap in starting salary was evident and exacerbated for STEM related college majors.
 
+#
