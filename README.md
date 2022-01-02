@@ -1,4 +1,4 @@
-# DataVizWork-Shiny-App
+# Data Visualization Final Project - Shiny App
 
 As part of my Data Visualization course at Merrimack College I developed a functional shiny application to explore salary gender bias amongst various college majors 
 (https://owen-evans.shinyapps.io/EvansOwen_DSA5200_FinalProject/)
