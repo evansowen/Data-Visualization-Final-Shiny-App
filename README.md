@@ -1,10 +1,8 @@
 # DataVizWork-Shiny-App
 
-Developed a functional shiny application to explore salary gender bias amongst various college majors 
+As part of my Data Visualization course at Merrimack College I developed a functional shiny application to explore salary gender bias amongst various college majors 
 (https://owen-evans.shinyapps.io/EvansOwen_DSA5200_FinalProject/)
 
-Utilized a recent college majors salary survey to explore possible gender biases in starting salary for various college majors.    The major intent was to determine whether gender starting salary bias was dependent on choice of college major.  
-
-Work indicated that gender-gap in starting salary was evident and exacerbated for STEM related college majors.
+This Shiny application was based upon data obtained from the American Community Survey 2010-2012 Public Use Microdata Series. This dataset provides information on the starting salaries, unemployment rate and underemployment rates for recent college graduates from 2010-2012.   The intent of the Shiny app was to provide the reader a high level of interactivity via the generation of detailed plotly outputs.    The application allows one to explore the 
 
 #
